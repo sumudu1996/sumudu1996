@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer | Building Scalable Web Products</h3>
 
 <p align="center">
-  <a href="https://sumudu.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://sumudu-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sumudu-pawuluwage/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  
 </p>
